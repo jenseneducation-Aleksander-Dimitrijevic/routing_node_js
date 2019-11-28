@@ -1,0 +1,24 @@
+{
+  "name": "routing_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenseneducation-Aleksander-Dimitrijevic/routing_node_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenseneducation-Aleksander-Dimitrijevic/routing_node_js/issues"
+  },
+  "homepage": "https://github.com/jenseneducation-Aleksander-Dimitrijevic/routing_node_js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
+}
